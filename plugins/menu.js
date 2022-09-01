@@ -5,11 +5,11 @@ exports.run = {
       isPrefix
    }) => {
       let rows = [{
-         title: 'DOWNLOADER',
+         title: 'مࢪڪز التحميلات',
          rowId: `${isPrefix}menutype 1`,
          description: ``
       }, {
-         title: 'GROUP TOOLS',
+         title: 'مࢪڪز الڪࢪوبات',
          rowId: `${isPrefix}menutype 2`,
          description: ``
       }, {
@@ -25,7 +25,7 @@ exports.run = {
          rowId: `${isPrefix}menutype 5`,
          description: ``
       }, {
-         title: 'OWNER TOOLS',
+         title: 'مࢪڪز المطوࢪ',
          rowId: `${isPrefix}menutype 6`,
          description: ``
       }, {
