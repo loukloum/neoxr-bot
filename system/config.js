@@ -1,5 +1,5 @@
 // Owner number
-global.owner = '6282141544557'
+global.owner = '212661809542'
 // Owner name
 global.owner_name = 'Customer Service'
 // Maximum upload file size limit (Default : 250 MB)
@@ -13,7 +13,7 @@ global.timer = 1800000
 // Symbols that are excluded when adding a prefix (Don't change it)
 global.evaluate_chars = ['=>', '~>', '<', '>', '$']
 // Country code that will be automatically blocked by the system, when sending messages in private chat
-global.blocks = ['91', '92', '212']
+global.blocks = ['91', '92', '62']
 // Put target jid to forward friends story
 global.forwards = '6282141544557@c.us'
 // Get neoxr apikey by registering at https://api.neoxr.my.id
